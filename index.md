@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Peter's awesome blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan on talking about learning GIT and GITHUB
